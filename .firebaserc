@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "default": "nextauth-409611",
+    "pinterest": "nextauth-409611"
+  },
+  "targets": {},
+  "etags": {}
+}
